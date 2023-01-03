@@ -4,3 +4,5 @@
 true // Booleano
 null // empty
 undefined //empty
+[1,2,3] // Array object
+{nombre: "Pancho"} // Object
