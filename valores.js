@@ -1,8 +1,11 @@
-// Valores
-40 //numero
-"Pancho Mora" // string
-true // Booleano
-null // empty
-undefined //empty
-[1,2,3] // Array object
-{nombre: "Pancho"} // Object
+// Tipos de datos primitivos
+typeof 5  // 'number'
+typeof "hola" // 'string'
+typeof true  // 'boolean'
+typeof null  // 'object'
+typeof undefined // 'undefined'
+
+// Tipos de datos de objeto 
+typeof console.log  // 'function'
+typeof {tipo: "objeto"} // 'object'
+typeof [1,2,3,4]  // 'object'
