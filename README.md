@@ -1,3 +1,3 @@
 # Curso Javascript
 
-My javascript practices.
+My basic javascript practices.
